@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Laura! 🌷
 
-<!--
-**laurabenisuera98-cpu/laurabenisuera98-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 About me
 
-Here are some ideas to get you started:
+Hi! I'm **Laura**, graduated in **Business Administration and Management (ADE)** and currently expanding my skills in the world of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **BSc in Business Administration & Management (ADE)**  
+🤖 **Currently studying a Master's in AI, Data & Cloud at EDEM**  
+📊 **Interested in Data Analytics, Artificial Intelligence & Business**  
+☁️ **Exploring Cloud technologies & data-driven solutions**  
+💗 **Passionate about combining business + technology to create meaningful solutions.**
+
+> *Turning business ideas into data-driven solutions, one project at a time.* ✨
